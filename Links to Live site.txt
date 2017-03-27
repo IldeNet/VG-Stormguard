@@ -1,0 +1,6 @@
+Links to real Pages:
+
+chris.yuuki.ml/geenmen/ (Opening Page)
+chris.yuuki.ml/geenmen/UserStats.php/ (User Info Page)
+chris.yuuki.ml/geenmen/MatchesPage.php/ (Matches Info Page)
+chris.yuuki.ml/geenmen/TipsandTricks.php/ (Tips and Tricks Page)

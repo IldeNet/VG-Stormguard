@@ -1,0 +1,678 @@
+<html><head></head> <body>
+    <div class="container" style="margin-top:62px;">
+  <div id="Tips, Tricks, Gameplay" style="position:relative; 
+float: right; margin-left:25%;width:80%;">
+   <center> <h1><u> Tips, Tricks, Gameplay </u></h1></center>
+        <div id="Gameplay" style="position:relative;width:100%; 
+border-style: solid;">
+        <div id="Gameplay">
+       <center> <h2><u> Hero Tips </u> </h2>
+        <table>
+  <tbody><tr>
+    <td><div class="box"> <a class="button" id="button1" href="#popup1">Adagio</a> </div> <div id="popup1" class="overlay"> <div class="popup"> <h2>Feeling the Burn?</h2> 
+<a class="close" href="#button1">x</a> <div class="content"> 
+Adagio’s burn from using his healing ability though not noticed 
+most of the time except for when it slows, actually does a fair 
+amount of damage. Also since attacking enemies who are inflicted 
+with burn regens your energy you can harass your opponents very 
+easily. Even if you aren’t a Laner.  </div> </div> </div></td> 
+<td><div class="box"> <a class="button" id="button2" href="#popup2">Alpha </a> </div> <div id="popup2" class="overlay"> <div class="popup"> <h2> Shut up and 
+Explode</h2> <a class="close" href="#button2">x</a> <div class="content"> CP Alpha, what an annoyance. No worries 
+everyone, because with the item Echo she gets much worse. Now 
+not only do you have to kill alpha twice in a short amount of 
+time with echo being used right she can have her 3rd life 
+regened instantly. All she has to do is use her ult, then use 
+echo; it’s that simple!  </div> </div> </div></td> <td><div class="box">
+    <a class="button" id="button3" href="#popup3">Arden </a> 
+</div> <div id="popup3" class="overlay">
+    <div class="popup">
+        <h2>You Can’t Run and You Can’t Hide</h2>
+        <a class="close" href="#button3">x</a>
+        <div class="content">
+            Arden’s echo wall is a very beautiful thing. But 
+have you ever had someone go invisible and wait out both of 
+their duration? Well there’s two neat little fixes to that. One 
+counter is to use Ardens A on himself, the ability will do 
+damage to a small area around you and pull anyone who’s 
+invisible near you out of it. The second trick is a roam trick 
+that you will find in the gameplay tricks section.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button4" href="#popup4">Baron </a> 
+</div> <div id="popup4" class="overlay">
+    <div class="popup">
+        <h2>Is it A bird?, a Plane?, Nope it’s a Salvo</h2>
+        <a class="close" href="#button4">x</a>
+        <div class="content">
+        Baron although is a monster both cp and weapon when 
+building damage normally, he has a fun little trick to him 
+that’s not that commonly known. Barons A’s cooldown can be sped 
+up much more than one could ever need. By buying enough cooldown 
+items you can bring the cooldown to where you can’t aim and 
+reactivate the ability fast enough before the next shell is 
+ready. Throw in some frostburn and have at it in some Blitz.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button5" href="#popup5">Blackfeather 
+</a> </div> <div id="popup5" class="overlay">
+    <div class="popup">
+        <h2>They Fall For Me So Easily</h2>
+        <a class="close" href="#button5">x</a>
+        <div class="content">
+            Black Feathers A ability does not have a cap against 
+heroes. Now for those who don’t know it does bonus damage based 
+on the enemy's missing health (As long as they have 
+fullheartthrob stacks). Fully Upgraded it does 20 percent of 
+missing health, however it scales with 20 percent weapon 
+power...So stack 2 sorrow blades and get your extra 60 percent 
+missing health damage today!
+        </div>
+    </div> </div></td>
+  </tr>
+  <tr>
+    <td><div class="box">
+    <a class="button" id="button6" href="#popup6">Catherine</a> 
+</div> <div id="popup6" class="overlay">
+    <div class="popup">
+        <h2> The Ultimate Tank</h2>
+        <a class="close" href="#button6">x</a>
+        <div class="content">
+            Catherines passive is that she gains an Armor stack 
+every time she stuns or silences an enemy hero with her 
+abilities Thanks to the E.U. Youtuber Jinko we now know that the 
+ability caps at a total of 999. Cool right? Sad part is even if 
+you play for around an hour stunning at every chance you will 
+likely end the game with around 100-150 stacks.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button7" href="#popup7">Celeste</a> 
+</div> <div id="popup7" class="overlay">
+    <div class="popup">
+        <h2>Oh the stuns</h2>
+        <a class="close" href="#button7">x</a>
+        <div class="content">
+            Rather than fully upgrading lovely Solar Storm 
+ability, if you fully upgrade Celeste’s B ability you get a 
+large buff to its stuns time, we’re talking a whoppin 1.5s; the 
+stun is longer than Catherine’s (1.2s). And its cooldown it 
+shorter than Catherine’s too. Soooo, Celeste roam? Stun comps?
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button8" href="#popup8">Flicker</a> 
+</div> <div id="popup8" class="overlay">
+    <div class="popup">
+        <h2>Mr. Steal your farm</h2>
+        <a class="close" href="#button8">x</a>
+        <div class="content">
+            Flicker, a hero if not countered correctly is 
+probably the most annoying in the game therefore….abuse it. 
+Flicker right now is often used only to set up large ambushes or 
+defend retreating teammates, but what happens if you make him a 
+heavy hitter and put him in their backs early game before the 
+sentry spawns? Using his A ability also to steal farm is very 
+efficient too as it does its damage ticks quite fast.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button9" href="#popup9">Fortress</a> 
+</div> <div id="popup9" class="overlay">
+    <div class="popup">
+        <h2>Can’t stop the bleeding?</h2>
+        <a class="close" href="#button9">x</a>
+        <div class="content">
+            Have you ever had a Krul, Reim, Rona, Alpha, Lyra, 
+Adagio, etc. who just wouldn’t die? Well there’s a quick fix to 
+that. Percent Health Damage. Fortress’s B and C abilities apply 
+bleed, when hitting 6 stacks if the B ability is maxed it will 
+do 20 percent of their max health, now let’s make it more 
+deadly, add on an aftershock to get another 15 percent of their 
+health deleted, and then add crystal ratios. The B ability 
+scales with 5 percent of crystal so if there was two 
+shatterglasses in the build an extra 15 percent damage is added. 
+Add it all together you’re doing 50 percent of the enemies 
+health in one shot.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button10" href="#popup10">Glaive</a> 
+</div> <div id="popup10" class="overlay">
+    <div class="popup">
+        <h2>Punt-a-Jungle-Sentry</h2>
+        <a class="close" href="#button10">x</a>
+        <div class="content">
+            Self Explanatory. As a cooldown glaive build go try 
+punting your local jungle sentry into a turret you could be 
+surprised by him switching to attack it and then crashing VG if 
+he beats it. If you already knew that then how about this one 
+maxing your Ult isn’t worth it. Yep you’ve been doing it wrong 
+this entire time, that lifesteal doesn’t change past the first 
+rank of the ult.
+        </div>
+    </div> </div></td>
+  </tr>
+  <tr>
+    <td><div class="box">
+    <a class="button" id="button11" href="#popup11">Grumpjaw</a> 
+</div> <div id="popup11" class="overlay">
+    <div class="popup">
+        <h2>Nom Nom Nom</h2>
+        <a class="close" href="#button11">x</a>
+        <div class="content">
+            Haven’t played as him yet but man….the slow is real
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button12" href="#popup12">Gwen</a> 
+</div> <div id="popup12" class="overlay">
+    <div class="popup">
+        <h2>One Shot One Kill</h2>
+        <a class="close" href="#button12">x</a>
+        <div class="content">
+            Her hero ability is so low key op. When her basic 
+attack is charged she deals (assuming you’re maxed level) 120 
+plus 45 percent of your weapon power ADDITIONAL DAMAGE. Let’s do 
+some math shall we? Base Damage 132 plus two sorrow blades 
+equals 432 Weapon Damage. Add on the empowered shot damage 120 
+plus 135 (45 percent of 300) and you now do 687 damage per shot. 
+Try out 5 sorrow blades and a breaking point in Blitz for some 
+real fun.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button13" href="#popup13">Idris</a> 
+</div> <div id="popup13" class="overlay">
+    <div class="popup">
+        <h2>Piggy Back Riding Like a Pro</h2>
+        <a class="close" href="#button13">x</a>
+        <div class="content">
+            Idris’s ult is a oddball in VG, it allows him to hop 
+onto the back of friend or foe an become invulnerable for 1.2s 
+(on enemies) or 2.8s (on allies) while only dealing 1 damage to 
+them. This single point of damage and the duration of the 
+latching on can lead to some odd experiences. For one, if you 
+latch onto a hero who is using a movement ability such as a jump 
+or teleporting ability you will be brought with them. This 
+remains true for when they are moving through walls also or 
+teleporting. Fun fact, the single damage doe does not cancel a 
+recall so if you hop on someone who is returning to base friend 
+or foe you go with them.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button14" href="#popup14">Joule</a> 
+</div> <div id="popup14" class="overlay">
+    <div class="popup">
+        <h2> Extra Defense</h2>
+        <a class="close" href="#button14">x</a>
+        <div class="content">
+            Ever wondered where exactly Joules extra shielding 
+ends? Well in the VG 8 Spring Season opener with the EU week 1 
+the Devs said that from the front of joule her extra shields are 
+both at 70 degree angles. If knowing this doesn’t matter to you 
+then how about the fact joule can steal gold mine and kraken 
+from lane with big red button?
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button15" href="#popup15">Kestral</a> 
+</div> <div id="popup15" class="overlay">
+    <div class="popup">
+        <h2>Glimmershot</h2>
+        <a class="close" href="#button15">x</a>
+        <div class="content">
+            Kestrals glimmer shot if you look closely you will 
+notice that it spreads out, now right before it spreads it will 
+deal its weapon damage the rest of it is considered the crystal 
+damage part of it.
+        </div>
+    </div> </div></td>
+  </tr>
+  <tr>
+    <td><div class="box">
+    <a class="button" id="button16" href="#popup16">Koshka</a> 
+</div> <div id="popup16" class="overlay">
+    <div class="popup">
+        <h2>Possible Strat.</h2>
+        <a class="close" href="#button16">x</a>
+        <div class="content">
+    Koshka thanks to her heroic perk is one of the few heroes 
+who can easily go without boots, so that should be taken 
+advantage of. Instead of buying boots buy a fourth offensive 
+item.
+            </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button17" href="#popup17">Krul</a> 
+</div> <div id="popup17" class="overlay">
+    <div class="popup">
+        <h2>Not a viable strat but...</h2>
+        <a class="close" href="#button17">x</a>
+        <div class="content">
+            Ever wondered how must lifesteal you can have? Well 
+let’s find out. You can get up to 25% using serpents mask, then 
+10% for every other poison shiv bought with some attack speed so 
+it’s somewhat viable. Right there that totals up to 75% 
+Lifesteal, now to add on Krul’s ability for lifesteal.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button18" href="#popup18">Lance</a> 
+</div> <div id="popup18" class="overlay">
+    <div class="popup">
+        <h2>Map Positioning.</h2>
+        <a class="close" href="#button18">x</a>
+        <div class="content">
+            Lance is all about positioning, so the question is 
+where is the best place for a fight with him? It’s not the lane, 
+nor is it the bushes near the kraken it’s actually the small 
+area in between the lane and the jungle. In that area lance can 
+easily land his impale and follow up with Gythian wall stun 
+since it is a narrow path.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button19" href="#popup19">Lyra</a> 
+</div> <div id="popup19" class="overlay">
+    <div class="popup">
+        <h2>Teleport strats</h2>
+        <a class="close" href="#button19">x</a>
+        <div class="content">
+            Everyone knows lyra can teleport from lane to kraken 
+and can easily back door vain-crystals. But there are some other 
+ways to use her teleport. If timed correctly it can be used to 
+force an enemy laner into the turret by teleporting into the 
+direction they are walking. It can also be used to lure the 
+enemy team into an ambush in a separate brush.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button20" href="#popup20">Ozo</a> 
+</div> <div id="popup20" class="overlay">
+    <div class="popup">
+        <h2>Distance is not a problem</h2>
+        <a class="close" href="#button20">x</a>
+        <div class="content">
+            Ozo’s B ability acrobounce has an interesting effect 
+on it. Once its targets have been set it can follow through to 
+hit the enemy no matter how far they run or teleport. (However if he gets 
+stunned, rooted, etc the bounce will of course stop.) Also checkout the V.G. Youtuber Jinko and his video of Idris's Ult vs. Ozo's.
+        </div>
+    </div> </div></td>
+  </tr>
+  <tr>
+    <td><div class="box">
+    <a class="button" id="button21" href="#popup21">Petal</a> 
+</div> <div id="popup21" class="overlay">
+    <div class="popup">
+        <h2>No effort needed</h2>
+        <a class="close" href="#button21">x</a>
+        <div class="content">
+            Petal is easy mode in a certain sense. All petal 
+needs to do is attack her target one for her munions to 
+continuously attack them, meaning as long as she stays within 
+her munions “leash” range she doesn’t have to do any of the 
+attacking. So she can hide in a nearby brush as her munions have 
+at it.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button22" href="#popup22">Phinn</a> 
+</div> <div id="popup22" class="overlay">
+    <div class="popup">
+        <h2>Team Player</h2>
+        <a class="close" href="#button22">x</a>
+        <div class="content">
+            Phinn has one of the most team wide defensive 
+abilities in the game. The reason being is because of how it 
+works with his heroic ability. His heroic perk gives him 15% 
+more health/armor/shield from items, his B ability scales with 
+6% of the health and 20% of the armor/shield. That lets him 
+fortify his teammates health by ridiculous amounts.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button23" href="#popup23">Reim</a> 
+</div> <div id="popup23" class="overlay">
+    <div class="popup">
+        <h2>Stay right there.</h2>
+        <a class="close" href="#button23">x</a>
+        <div class="content">
+            If there is a hero who can keep people from getting 
+away it is Reim. He has a root that covers 360 degrees around 
+him, if built with frostburn you have that added slow, lastly 
+throw on a Shiversteel to have a slow applied on basic attacks 
+and the couldn’t get away from your ice pillars if they tried.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button24" href="#popup24">Ringo</a> 
+</div> <div id="popup24" class="overlay">
+    <div class="popup">
+        <h2>A fearsome Red but scarier Blue</h2>
+        <a class="close" href="#button24">x</a>
+        <div class="content">
+            We all know Ringo is mainly used for weapon carry 
+however his cp ratios are very strong too. Especially his 
+Ultimate which: fun fact; can be activated from inside the brush 
+without revealing you. When building cp Ringo it is good to know 
+the strengths of each ability: Max the A only if you find 
+yourself chasing or running away most of the game. Max the B if 
+you want more consistent damage build up (especially if you’re 
+coming from maining wp Ringo), and lastly max the Ult. if you 
+want ridiculous damage that has 100% armor/shield pierce.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button25" href="#popup25">Rona</a> 
+</div> <div id="popup25" class="overlay">
+    <div class="popup">
+        <h2>Burst and Sustain</h2>
+        <a class="close" href="#button25">x</a>
+        <div class="content">
+            Rona can have massive burst or sustain it all 
+depends on what you use your rage build up on. Using your rage 
+build up on your A Ability adds an extra percent of your damage 
+for every point of bloodrage used. So if it consumes 100 
+bloodrage then you do double your normal damage. Now to have 
+sustain simply have a lifesteal item breaking point and plenty 
+of health to fortify. From there it’s ult and spin to win.
+        </div>
+    </div> </div></td>
+  </tr>
+    <tr><td><div class="box">
+    <a class="button" id="button26" href="#popup26">Samuel</a> 
+</div> <div id="popup26" class="overlay">
+    <div class="popup">
+        <h2>Low Key heal meta</h2>
+        <a class="close" href="#button26">x</a>
+        <div class="content">
+            Ever find yourself really low on health and you have 
+your echo item just sitting there? Well if you use drifting dark 
+and echo it while walking next to the enemy lane minions you 
+will find yourself healing back to almost half of your health. 
+This is due to drifting darks heal effect; per minion it will 
+heal 10 per second each minion wave has 4 minions. So using only 
+one drifting dark will heal you 40 per second in lane, using two 
+will heal you 80 per second. Side note, drifting dark 
+empowerment does not stack.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button27" href="#popup27">Saw</a> 
+</div> <div id="popup27" class="overlay">
+    <div class="popup">
+        <h2>Fun Facts: The Dank shank</h2>
+        <a class="close" href="#button27">x</a>
+        <div class="content">
+            Dank Shank doesn’t do missing health bonus damage to 
+turrets.It will do a set damage based off your crystal power. 
+Dank shank can help you achieve the second fastest run speed in 
+the game simply throw on some journey boots and start running. 
+You can kill yourself with the dank shank easily by hitting a 
+catherine whose shield is up and around 25% health.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button28" href="#popup28">Skarf</a> 
+</div> <div id="popup28" class="overlay">
+    <div class="popup">
+        <h2>Goop Vrs Turret Strat.</h2>
+        <a class="close" href="#button28">x</a>
+        <div class="content">
+            Using Skarf’s goop you can burn through a turrets 
+shielding as long as you have at least 150 crystal power and 
+maxed the B. Now say you have 250 (shatter glass and frostburn) 
+you can burn through its shield and do about 10% of its health. 
+Now if you grab a clockwork a drop a second goop on the first 
+one so that it will burn even faster through the turrets health 
+all without the assistance of your team or minions.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button29" href="#popup29">Skye</a> 
+</div> <div id="popup29" class="overlay">
+    <div class="popup">
+        <h2>Suristike</h2>
+        <a class="close" href="#button29">x</a>
+        <div class="content">
+            Suri strike can be used for the obvious such as 
+dodging and repositioning or just damaging enemies, however 
+there are some tricks that can also be done with it. 1: You can 
+Suristrike through walls. 2: You can Suristrike across the map. 
+(Check out the youtuber jinko to see it in action) Also Death 
+from above and Suri do not do enough damage by themselves to 
+take down a turrets shield like Skarfs goop.
+        </div>
+    </div> </div></td> <td><div class="box">
+    <a class="button" id="button30" href="#popup30">Taka</a> 
+</div> <div id="popup30" class="overlay">
+    <div class="popup">
+        <h2>Can’t touch this</h2>
+        <a class="close" href="#button30">x</a>
+        <div class="content">
+            When playing taka it’s a common strat to unload both 
+his A ability and his x-retsu in the same attack however after 
+experimenting for some time it seems the better option is to 
+only x-retsu the enemy then go invisible for bit, reappear to 
+refresh the mortal wound, then kaiten over them when they start 
+to attack you then retreat and do the process again. This attack 
+pattern worked well with cp, wp, and cooldown taka builds.
+        </div>
+    </div> </div></td>
+  </tr><tr>
+    <td><div class="box">
+    <a class="button" id="button31" href="#popup31">Vox</a> 
+</div> <div id="popup31" class="overlay">
+    <div class="popup">
+        <h2>Come in close or stay away</h2>
+        <a class="close" href="#button31">x</a>
+        <div class="content">
+            Vox is a great hero for keeping enemies at a 
+distance wp or cp. If WP they need to get in close and kill you 
+before you get them especially if you’re using a double tyrant 
+build.As for a cp build if they try to get close you can simply 
+run away while hitting all nearby enemies with resonance 
+bounces. It is very important when running away to time when you 
+use both your A ability and your B. Using you A to dodge aimed 
+attacks like Lance’s impale and using the B to slow enemies who 
+are using boots to chase you.
+        </div>
+    </div> </div></td>
+  </tr>
+    
+</tbody></table></center> <style> .box {
+  width: 25%;
+  margin: 0 auto;
+  background: rgba(255,255,255,0.2);
+  padding: 15px;
+  border: 2px solid #fff;
+  border-radius: 20px/50px;
+  margin-left: 0%;
+}
+.button {
+  font-size: 1em;
+  padding: 10px;
+  color: #8b0000;
+  border: 2px solid black;
+  border-radius: 20px/50px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+.overlay {
+  position: absolute;
+  top: 100px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+.popup {
+  margin: 70px auto;
+  top:100px;
+  padding: 20px;
+  background: #000;
+  border-radius: 5px;
+  width: 40%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+.popup {
+  margin-top: 0;
+  color: #8b0000;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+  color: #FFF;
+ 
+}
+</style> <style></style>
+        </div>
+        </div>
+        <div id="Gameplay2" style="position:relative;width:100%;border-style: solid;">
+       <center> <h2><u> Map Related Tips </u> </h2>
+        <h4><br><u> Travel</u> <br> <br> *Fastest Speed Possible: Using Blackfeather's A ability one can hit the fastest speed in game theoretically; the speed would be gained from 4 shatterglass's,1 broken myth,1 clockwork.This allows for his A Ability to grant a speed boost of 19.72<br> 
+<br>
+*Slowest speed possible: Alpha holds the title to this one, Using her A to get an immediate 80% slow, add on 40% from a shiversteel, another 35% from frostburn maxed out, and lastly 30% from dragonblood contract. Now if the slows all worked like that you would have a slow of 185% <br>
+<br> *Areas/walls that can be 
+traversed:<br> <img src="https://drive.google.com/uc?id=0BwCSfDds2skuMUNUc0RNRXZ6MlU" style="width:100%;">
+ <br> <br><u> Countering Invisibility</u> <br> <br> 1.So you 
+get matched against a Flicker or Taka or Kestral and for some 
+reason you don't buy contraptions. Well there is hope found in 
+the bushes, but only if you meet the requirements. First 
+requirement: You must be in the bushes first before the 
+invisible enemy. Second requirement you have to pay attention to 
+your health bar if it is lit up then there is an enemy it the 
+bush with you if not and it's dark then you’re alone. <br> <br> 
+2.Try to pick heroes with projectile or AoE that way you can 
+knock your enemies out of invisibility when they go invisible. 
+The larger the AoE the easier it is to catch them as they make 
+their escape.
+ <br> <br><u> Late Game Kraken:</u> <br> <br> Is she worth 
+it? Well it depends, if the situation is a 3 vs 3 around Kraken 
+then she’s not worth to take but she is a good fight starter. If 
+you’re going for a steal it’s not worth it. Especially if it's a 
+1 vs 3. By late game the carry and jungler should be able to 
+take down a kraken after it takes only a single turret however 
+if there is someone dead, then the enemy team can harass prolong 
+the krakens life costing your team more turrets.
+ <br> <br><u> Early 
+Game Elder Treant:</u> <br> <br> Looking to secure that first kill 
+of the game bonus? Simply dance around that Treant after 
+clearing your front jungle farm. Let the Treant do some free 
+damage to your enemies then when the opportunity comes try to 
+either go for the kill or steal the treant. Whoever hits level 2 
+first is generally going to win that fight so stay weary. </h4></center>
+        </div>
+       <div id="Gameplay3" style="position:relative;width:100%;border-style:solid;">
+       <center> <h2><u>Mini-Games<br>
+ (To be played in the new practice mode coming with 2.3)</u></h2>
+        <br>
+        <br>
+        <h4><u>Juggernaut:</u>(Based off the Youtuber Gatorrex's)
+        <br>
+        <br>
+                1vs3, 1 Player is allowed to build all T3 Items and Infuse while the opposition can only build up to T2 items and use no infusions. Game goes until one of the sides Vaincrystal is destroyed.
+                <br>
+                <br>
+                <br>
+               <u> King of the Fold:</u>
+                <br>
+                <br>
+                Deathmatch to control the Kraken. Only the Kraken is allowed to attack Turrets and the Vaincrystals; Each team must have 1 player to act as "King", 1 player to act as "Noble", and 1 to be "Peasant". Kings are the only ones who can build T3 Items, Nobles build T2, and Peasants build T1. Everyone can use consumables.Game ends when Vaincrystal is destroyed.
+<br>
+<br>
+<br>
+<u>Protect the Jungle!:</u>
+<br>
+<br>
+Jungle/Captian Heroes only. Game ends when enemy Jungle Sentry lives are depleted. Only T2 Items allowed, there is no returning to base/"backing" either.
+<br>
+<br>
+<br>
+<u>Sniper Wars:</u>(Based off the Youtuber Gatorrex's)
+<br>
+<br>
+Only cooldown items (echo included). Using only aim/projectile based abilities only, make it to 20 Kills. Skarf's A, Celestes Ult, Kestrals A and Ult, Idris's B, Ect. are all examples of the abilities allowed.
+<br>
+<br>
+<br>
+<u>Its a trap!:</u>
+<br>
+<br>
+One Team must be Taka, Flicker, and Kestral. On that team only Kestral is allowed to attack the enemies while taka and flicker build boots and clockworks, Kestral builds only cp builds. The other team is only allowed to use T2 attack items and defense items. If the Invis. Team gets 10 kills they win, if the Hunting team gets 20 kills then they win.       
+<br>
+<br>
+<br>
+<u>Those who don't die:</u>
+<br>
+<br>
+Build the Tankiest and most survivable hero comp. possible, first team to 15 kills wins. No boots, No Armor piercing/shield piercing items.
+<br>
+<br>
+<br>
+<u>Coup d'etat:</u>
+<br>
+<br>
+Stormguard Heroes vs Non-stormguard Heroes. Stormguards can only have 2 Offensive items T3 Items and the rest defense, the non-stormguard heroes can only have 1 T3 offensive item and 1 T3 defensive item the rest are T2 Offensive. Game ends at 25 Kills.
+</h4></center>
+</div>
+<div id="comments" style="border-style:solid;border-color:black;width:100%;">
+<center>
+<form method="POST" action="//script.google.com/macros/s/AKfycbwafC_AZkhIlZDwniPhiu1CTAZwAhGzAS1EknN1tWPWeT7iw5Q2/exec">
+Name:
+<br>
+<input name="Commenter" type="Commenter">
+<br>
+Email:
+<br>
+<input type-"commenteremail"="" name="Email">
+<br>
+Comment:
+<br>
+<textarea name="Comments" rows="6" cols="30"></textarea>
+<br>
+<input name="submit" value="submit" type="submit">
+</form>
+</center>
+</div>
+ </div> </div>
+    <div class="container" style="position: fixed;top: 0;bottom: 
+0;left: 0;float: right;width: 100%;height: 60px;margin: 0 0 0 
+0;background: black;Opacity:1">
+        <div id="header">
+            <center>
+            <h1 style="margin-top:auto;margin-bottom:auto;color:white;"><big>Stormguard 
+Stats!</big></h1>
+            </center>
+        </div> </div><div class="container" style="position: 
+fixed;top: 0;bottom: 0;left: 0;width: 20%;background: 
+black;Opacity: 1;">
+            <div id="sidebar">
+    <div id="VG icon">
+    <img src="https://drive.google.com/uc?id=0BwCSfDds2skuY2RtdC1PM2NwcEk" style="margin-top:-20%; bottom:0; left:0; right:0;" height="55%" width="105%">
+    </div>
+    <div id="Username link" style="margin-left:10px;margin-top:50px;">
+        <a href="UserStats.php">
+            <h2>UserStats</h2>
+        </a>
+    </div>
+<div id="Matches Link" style="margin-left:10px;margin-top: 
+20px;">
+                <a href="MatchesPage.php">
+    <h2>Matches</h2>
+    </a>
+        </div> <div style="margin-left:10px;margin-top: 20px;" id="Tips,Tricks,Gameplay Link">
+               
+    <h2 style="color:white;">Tips and Tricks</h2>
+    
+        </div>
+    
+    <div id="Vainglorious Icon">
+        <img src="https://drive.google.com/uc?id=0BwCSfDds2skuaHAteGFtdHpFUFk" style="width:150px; height:150;">
+    </div>
+    
+        </div>
+    </div> 
+</body></html>

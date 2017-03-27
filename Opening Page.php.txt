@@ -1,0 +1,39 @@
+<html>
+  <head></head>
+  <body style="background-color:black;">
+    <div class="container">
+    <div id="Banner" style="float:left;width:30%;padding:1.25%;border-style:solid;height:70%">
+      <img src="https://drive.google.com/uc?id=0BwCSfDds2skubE5Nd09LUEZaLVk" style="width:100%;margin-top:40%;">
+    </div>
+    <div class="container" style="float:left;width:30%;padding:1.25%;border-style:solid">
+      <img src="https://drive.google.com/uc?id=0BwCSfDds2skua1lFaHV4MktFTkE" style="width:100%;">
+      <img src="https://drive.google.com/uc?id=0BwCSfDds2skueFRXNVRIN3o5Mjg" style="width:100%;">
+      <div id="box" style="background-color:8b0000;border-style:solid;">
+  <p>
+<center>  <big><strong> Welcome To Storm Guard Stats!</strong></big>
+    <br>
+       Created to track your battle achievements.
+ </center> </p><div id="Box" style="margin: 0 
+auto;background: rgba(255,255,255,0.2);padding: 5px;border: 2px 
+solid #fff;border-radius: 20px/50px;background-clip: 
+padding-box;text-align: center;"><a href="UserStats.php">
+  Onwards </a></div> </div>
+      
+<div class="footer">
+<h5 style="color:white;">
+<u>Created by:</u>
+<br>
+Geenmen & Chrisbisk
+<br>
+<u>Information from:</u> 
+<br>
+Super Evil MegaCorp
+</h5>
+</div>
+      </div>
+    <div id="Banner" style="float:left;width:30%;padding:1.25%;border-style:solid;height:70%">
+      <img src="https://drive.google.com/uc?id=0BwCSfDds2skubE5Nd09LUEZaLVk" style="width:100%;margin-top:40%;">
+    </div>
+    </div>
+  </body>
+</html>

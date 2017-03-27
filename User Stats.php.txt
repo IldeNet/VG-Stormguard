@@ -1,0 +1,145 @@
+<?
+require("VG.php");
+$cs = "(Coming Soon)";
+/* The API should return something like this as the $res object:
+{
+      "type": "player",
+      "id": "861289be-ec87-11e5-a0e6-06b48b82cd49",
+      "attributes": {
+        "createdAt": "2017-03-15T19:44:52Z",
+        "name": "Geenmen",
+        "shardId": "na",
+        "stats": {
+          "level": 30,
+          "lifetimeGold": 15276.75,
+          "lossStreak": 1,
+          "played": 1474,
+          "played_ranked": 405,
+          "winStreak": 0,
+          "wins": 877,
+          "xp": 175450
+        },
+        "titleId": "semc-vainglory"
+      },
+      "relationships": {
+        "assets": {
+          "data": []
+}
+      }
+}
+You'll access each part using PHP array notation.
+For example if you want the player ID, you'd do $res['id']
+*/
+if (isset($_POST['username'])) {
+        $username = $_POST['username'];
+        $region = $_POST['region'];
+        $res = getUserByUsername($username, $region);
+        //die($res);
+}
+?>
+<html>
+<head>
+<title><?= isset($username) ? "$player's " : "" ?>User Stats</title>
+</head>
+<body style="background-color:black;">
+        <div class="container" 
+style="position: fixed;top: 0;bottom: 0;left: 0;float: 
+right;width: 100%;height: 60px;margin: 0 0 0 0;background: 
+black;Opacity:1">
+        <div id="header">
+            <center>
+            <h1 
+style="margin-top:auto;margin-bottom:auto;color:white;"><big>Stormguard Stats!</big></h1>
+            </center>
+        </div> </div><div class="container" style="position: fixed;top: 0;bottom: 0;left: 0;width: 20%;background: black;Opac$
+            <div id="sidebar">
+<div id="vg-icon">
+    <img src="https://drive.google.com/uc?id=0BwCSfDds2skuY2RtdC1PM2NwcEk" style="margin-top:-20%; bottom:0; left:0; right:0;$
+    </div>
+    <div id="username" 
+style="margin-left:10px;margin-top:50px;">
+        
+            <h2 style="color:white;">UserStats</h2>
+        
+    </div>
+    <div id="matches" style="margin-left:10px;margin-top: 
+20px;">
+        <a href="MatchesPage.php">
+    <h2>Matches</h2>
+    </a>
+        </div> <div id="Game Stat" 
+style="margin-left:10px;margin-top: 20px;">
+<a href="TipsandTricks.php">
+    <h2>Tips and Tricks</h2>
+    </a>
+        </div>
+    
+    <div id="Vainglorious Icon">
+        <img 
+src="https://drive.google.com/uc?id=0BwCSfDds2skuaHAteGFtdHpFUFk" 
+style="width:150px; height:150;">
+    </div>
+    
+        </div>
+    </div>
+<div class="container" style="margin-top:18%;margin-left:20%;">
+<table style="border-style:solid; border-color:black;background-color:#8b0000;">
+<tbody>
+<? if (isset($_POST["username"])) { ?>
+<tr>
+<td>Username: <?= $res['attributes']['name'] ?></td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>Account Level: <?= $res['attributes']['stats']['level'] ?></td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>Guild: <?= $cs ?></td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>Team: <?= $cs ?> </td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>Rank: <?= $cs ?></td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>Career Wins: <?= $res['attributes']['stats']['wins'] ?></td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>Casual Matches Played: <?= intval($res['attributes']['stats']['played']) - intval($res['attributes']['stats']['played_ran$
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>Ranked Matches Played: <?= $res['attributes']['stats']['played'] ?></td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>Blitz Matches Played: <?= $cs ?></td>
+</tr>
+<tr><td><br></td></tr>
+<tr>
+<td>Battle Royale Matches Played: <?= $cs ?></td>
+</tr>
+<tr><td><br></td></tr>
+<? } ?>
+<form action="?" method="POST">
+<tr>
+<td>Username: <input type="text" name="username"></td>
+</tr>
+<tr>
+<td><select name="region">
+  <option value="na">North America</option>
+  <option value="eu">Europe</option>
+  <option value="sa">South America</option>
+  <option value="ea">Eastern Asia</option>
+  <option value="sg">Southeast Asia</option>
+</select></td>
+</tr>
+</tbody></table>
+ </div>
+</body></html>
